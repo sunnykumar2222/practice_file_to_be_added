@@ -1,3 +1,9 @@
 h1{
     color: blue;
 }
+h3{
+    color: blueviolet;
+}
+p{
+    border-left: 150px;
+}
